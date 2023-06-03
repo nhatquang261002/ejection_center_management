@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "413357776573",
+    "firebase_url": "https://ejection-app-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "ejection-app",
     "storage_bucket": "ejection-app.appspot.com"
   },
@@ -29,6 +30,13 @@
             {
               "client_id": "413357776573-i78vlse9r4hgmocb3hmuguplcm45ebbj.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "413357776573-844or6l83f1t341fkb34hdfmuvmqu4b5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ejectionCenterManagement"
+              }
             }
           ]
         }

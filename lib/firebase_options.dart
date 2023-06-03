@@ -49,6 +49,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '413357776573',
     projectId: 'ejection-app',
     authDomain: 'ejection-app.firebaseapp.com',
+    databaseURL: 'https://ejection-app-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'ejection-app.appspot.com',
     measurementId: 'G-V5TS8DBS4F',
   );
@@ -58,6 +59,7 @@ class DefaultFirebaseOptions {
     appId: '1:413357776573:android:39aa73e0bcbe09a3c8e1d4',
     messagingSenderId: '413357776573',
     projectId: 'ejection-app',
+    databaseURL: 'https://ejection-app-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'ejection-app.appspot.com',
   );
 
@@ -66,6 +68,7 @@ class DefaultFirebaseOptions {
     appId: '1:413357776573:ios:330d3c53b2ba2c8cc8e1d4',
     messagingSenderId: '413357776573',
     projectId: 'ejection-app',
+    databaseURL: 'https://ejection-app-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'ejection-app.appspot.com',
     iosClientId: '413357776573-844or6l83f1t341fkb34hdfmuvmqu4b5.apps.googleusercontent.com',
     iosBundleId: 'com.example.ejectionCenterManagement',
@@ -76,6 +79,7 @@ class DefaultFirebaseOptions {
     appId: '1:413357776573:ios:330d3c53b2ba2c8cc8e1d4',
     messagingSenderId: '413357776573',
     projectId: 'ejection-app',
+    databaseURL: 'https://ejection-app-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'ejection-app.appspot.com',
     iosClientId: '413357776573-844or6l83f1t341fkb34hdfmuvmqu4b5.apps.googleusercontent.com',
     iosBundleId: 'com.example.ejectionCenterManagement',
